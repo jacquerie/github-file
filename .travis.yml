@@ -1,0 +1,40 @@
+notifications:
+  email: false
+
+sudo: false
+
+language: python
+
+cache: pip
+
+python:
+  - 2.7
+  - 3.4
+  - 3.5
+  - 3.6
+
+matrix:
+  fast_finish: true
+
+before_install:
+  - travis_retry pip install --upgrade pip setuptools
+  - travis_retry pip install coveralls
+
+install:
+  - travis_retry pip install -e .[tests]
+
+script:
+  - ./run-tests.sh
+
+after_success:
+  - coveralls
+
+deploy:
+  provider: pypi
+  user: jacquerie
+  password:
+    secure: "PAkbYAEi+brMBvzy5DmLT+dutlwufM6d259pkNr7eu+J4E7ShCB8UFi6JfDEeBknfc+svit5Ks3IgoJ8MoA6Att/32VhTk03t0LzMaV8hZCDL+kLZFdeIxhm2gshWhAnbkyBvps14BSuWlG6KI02JIaqRLDrMBXHn0pCxIx18bhG943lw5eWO2GyeJVT8Qhp6fru6lTi81Kf4rGgi3r/dKnFHtga+LSRrr91UbukYjXSTA4CMR+/1RWC44FRJyVJLvu3XlCOhFkHocZsaJ5rb3IK+AS6ODp3svE5nZGQdYmu5CfmN14tW6rr/z+wqr594ACRrXXRMbXoWmo+bwXbyM/V16d+FoOKsFE+xC+1GZKJ0Jl4T2jFrL0JRUYgfh0rlnK1RqXt4dgctEw1HuDUEU8ROmeS7q5m+Auhn06kmop4+kRulP/za5i3ak0uQkTEvErIuBwBGsrN0yRe/Q8gKJ7arlyfqKbJ0y5z1dTq+HgmlDWsL0LN7BgrOJl1QmKxwpf/NXGbD6UAqDl4Oh0h3UohSCeDjgBZ6xJDrwJiweaKRiFJg4P66FV2KGAT287es5QB2bdHfiSnjVnXrzrVeH9RABq8NnURbJITRA5HE9GgC/Dfztv0l/2eDz/5QdH5BD+uH1z/L9SlqXxDV+F5cFLLVKT2y1m9ae0e6MEYdnE="
+  on:
+    branch: master
+    python: 2.7
+  distribution: sdist
