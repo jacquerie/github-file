@@ -3,6 +3,11 @@ notifications:
 
 sudo: false
 
+env:
+  global:
+    - GITHUB_USER=username
+    - GITHUB_PASS=password
+
 language: python
 
 cache: pip

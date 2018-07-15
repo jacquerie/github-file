@@ -37,7 +37,29 @@ Currently ``github-file`` implements one subcommand:
 
 This will update the configuration of your repository on GitHub so that it
 matches what is described in a file called (by default) ``Githubfile`` in the
-``.github`` folder.
+``.github`` folder. Here's an example of such a file:
+
+.. code-block:: ini
+
+    [core]
+    owner = jacquerie
+    repo = github-file
+    description = Configure your GitHub repository from a file,
+        without having to click around in the UI.
+
+    [features]
+    has_issues = true
+    has_wiki = false
+
+The meaning of these options is explained in GitHub's API documentation at
+https://developer.github.com/v3/repos/#edit, although not all options are
+currently available. Here's what's currently configurable:
+
+- ``description``
+- ``homepage``
+- ``private``
+- ``has_issues``
+- ``has_wiki``
 
 
 Author
