@@ -1,0 +1,9 @@
+[core]
+owner = jacquerie
+repo = github-file
+description = Configure your GitHub repository from a file,
+    without having to click around in the UI.
+
+[features]
+has_issues = true
+has_wiki = false
