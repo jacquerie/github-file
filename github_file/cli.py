@@ -38,10 +38,10 @@ def update(filename):
     if parser.has_option('core', 'private'):
         private = parser.getboolean('core', 'private')
 
-    has_issues = False
+    has_issues = True
     if parser.has_option('features', 'has_issues'):
         has_issues = parser.getboolean('features', 'has_issues')
-    has_wiki = False
+    has_wiki = True
     if parser.has_option('features', 'has_wiki'):
         has_wiki = parser.getboolean('features', 'has_wiki')
 
