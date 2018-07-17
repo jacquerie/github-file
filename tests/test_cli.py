@@ -12,6 +12,7 @@ owner = jacquerie
 repo = github-file
 description = Configure your GitHub repository from a file,
     without having to click around in the UI.
+topics = github, configuration, file
 
 [features]
 has_issues = true
