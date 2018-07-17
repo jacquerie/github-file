@@ -29,15 +29,16 @@ Install
 Usage
 =====
 
-Currently ``github-file`` implements one subcommand:
+First, you will need to provide your GitHub credentials through the
+environment.  Since ``github-file`` uses ``python-dotenv`` you can do so by
+creating a ``.env`` file with the following contents:
 
-.. code-block:: console
+.. code-block:: shell
 
-    $ github-file update
+    GITHUB_USER=your_username
+    GITHUB_PASS=your_password
 
-This will update the configuration of your repository on GitHub so that it
-matches what is described in a file called (by default) ``Githubfile`` in the
-``.github`` folder. Here's an example of such a file:
+Next, you will need to create a valid ``Githubfile``. Here's an example of one:
 
 .. code-block:: ini
 
@@ -58,12 +59,21 @@ matches what is described in a file called (by default) ``Githubfile`` in the
     allow_merge_commit = false
     allow_rebase_merge = true
 
-The meaning of these options is explained in GitHub's API documentation at
-https://developer.github.com/v3/repos/#edit, although not all options are
-currently available. Here's what's currently not configurable:
+The meaning of these options is explained in `GitHub's API documentation`_,
+although not all the options are currently supported (in particular you
+currently can't archive the repository or configure the default branch.)
 
-- Whether the repository is archived.
-- The configuration of the branches.
+Finally, running
+
+.. code-block:: console
+
+    $ github-file update -f Githubfile
+
+will update the configuration of your GitHub repository so that it matches what
+is described in the file. Note that if you don't provide a filename it will
+look by default in ``.github/Githubfile``.
+
+.. _`GitHub's API documentation`: https://developer.github.com/v3/repos/#edit
 
 
 Author
