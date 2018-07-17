@@ -21,7 +21,7 @@ has_wiki = false
 
 @pytest.mark.vcr()
 def test_update_uses_the_provided_filename(runner, tmpdir):
-    config_fd = tmpdir.join('github-compose.yaml')
+    config_fd = tmpdir.join('Githubfile')
     config_fd.write(GITHUB_FILE)
 
     result = runner.invoke(cli, ['update', '-f', str(config_fd)])
