@@ -46,6 +46,7 @@ matches what is described in a file called (by default) ``Githubfile`` in the
     repo = github-file
     description = Configure your GitHub repository from a file,
         without having to click around in the UI.
+    topics = github, configuration, file
 
     [features]
     has_issues = true
@@ -63,7 +64,6 @@ currently available. Here's what's currently not configurable:
 
 - Whether the repository is archived.
 - The configuration of the branches.
-- The topics of the repository.
 
 
 Author

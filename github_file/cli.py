@@ -37,6 +37,9 @@ def update(filename):
     private = False
     if parser.has_option('core', 'private'):
         private = parser.getboolean('core', 'private')
+    topics = []
+    if parser.has_option('core', 'topics'):
+        topics = parser.get('core', 'topics').split(', ')
 
     has_issues = True
     if parser.has_option('features', 'has_issues'):
@@ -76,3 +79,4 @@ def update(filename):
 
     repository = github.repository(owner, repo)
     repository.edit(repo, **config)
+    repository.replace_topics(topics)
