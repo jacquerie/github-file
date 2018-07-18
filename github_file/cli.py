@@ -11,6 +11,49 @@ from six.moves import configparser
 
 DEFAULT_FILENAME = os.path.join('.github', 'Githubfile')
 
+DEFAULT_LABELS = [
+    {
+        'name': 'bug',
+        'color': '#d73a4a',
+        'description': 'Something isn\'t working',
+    },
+    {
+        'name': 'duplicate',
+        'color': '#cfd3d7',
+        'description': 'This issue or pull request already exists',
+    },
+    {
+        'name': 'enhancement',
+        'color': '#a2eeef',
+        'description': 'New feature or request',
+    },
+    {
+        'name': 'good first issue',
+        'color': '#7057ff',
+        'description': 'Good for newcomers',
+    },
+    {
+        'name': 'help wanted',
+        'color': '#008672',
+        'description': 'Extra attention is needed',
+    },
+    {
+        'name': 'invalid',
+        'color': '#e4e669',
+        'description': 'This doesn\'t seem right',
+    },
+    {
+        'name': 'question',
+        'color': '#d876e3',
+        'description': 'Further information is requested',
+    },
+    {
+        'name': 'wontfix',
+        'color': '#ffffff',
+        'description': 'This will not be worked on',
+    },
+]
+
 
 @click.group()
 @click.version_option()
@@ -51,6 +94,12 @@ def update(filename):
     if parser.has_option('features', 'has_wiki'):
         has_wiki = parser.getboolean('features', 'has_wiki')
 
+    labels = DEFAULT_LABELS
+    if parser.has_option('issues', 'labels'):
+        labels = []
+        for line in parser.get('issues', 'labels').split('\n'):
+            labels.append(_parse_label(line))
+
     allow_squash_merge = True
     if parser.has_option('merges', 'allow_squash_merge'):
         allow_squash_merge = parser.getboolean('merges', 'allow_squash_merge')
@@ -80,3 +129,17 @@ def update(filename):
     repository = github.repository(owner, repo)
     repository.edit(repo, **config)
     repository.replace_topics(topics)
+    for label in repository.labels():
+        label.delete()
+    for label in labels:
+        repository.create_label(**label)
+
+
+def _parse_label(line):
+    parts = line.split(', ')
+    if len(parts) == 2:
+        name, color = parts
+        return {'name': name, 'color': color}
+    elif len(parts) == 3:
+        name, color, description = parts
+        return {'name': name, 'color': color, 'description': description}
