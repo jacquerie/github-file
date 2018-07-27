@@ -14,30 +14,29 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAA6WYb2/bNhDGv4rgt3Miy3Ha1EDQFWvQZVjSbnC3Im8MWqItJhKpkpRdW8h338M/
-        smR3sBPrjWHLvB8fHu+oO1Y9lvTG0Whw+S4aXUb9HhcJnZpnvbuPN6vP2R9Z/Ondhnz7exnzpx/3
-        Hz9Enyc3g/vJzXUPg0lOMXLBdFrOzuYso3g4L7Ns6v95JPH3kkpGw90xYsWp7I2rXiYWjAOxHQiA
-        mf3iKhpeDXbl/PXmn2/3Wfx4N7qb3I7uPlwbCWRJNJHTUmagpFoXahyG7qEanrtZS0VlLLimXJ/H
-        Ig/L0OHfL69HQCykh9hl48EerGCe44wBU2Fbb6rzbE+Am9eOb4+ciywTK9jv6z04Rbg1M961CMYX
-        pyBgVoVCpxQOwzKezeKZ0q+UY00q7KjSiBQDUdgCSZPXSfJGEGSC4bkKJS2EpZUzFUtWaCb4K6Xt
-        mAIl5IJwtiEnoGCqQDCiXinCmsCULhFwr7R1NlVYSLYk8dq4Q9KYsiW8ewpvzxg4vS5Mzn7F/htf
-        M02nJMlNEs5Jpuhzv2fn1hhkH/SRVS+K770UT+h2EzHdb4LP2aKUNFiLUgafmP69nAXWU0wLuQ7m
-        UuQBCcwZ0g9WOFBEqYOULBGygRZBnLH4KSBSlDwJGA8Qw8HX23OsYC7k01bqwcy1szX5uKfXcI5s
-        1gEAchTmkPNE1x0oxroK8ekTK0a2k5mQBD7qgN3BVGH7p4kwTUnegW7NgUmF6OJBaw4MU6qkLwr2
-        Q/thKSqs84mX+cwdeC/JokNgZw+dRCm24JR28NwWUYX1eTyThMdpF2hNqEL3ze4wWXSQaawBmWVi
-        1oGCd2JoEVWoUuLePXraTZlhGsIOUtJ5R5mGsEVq2WmPrUSD2ALx4tPY7g4aa0JYeU9mhC9KsujC
-        3CKw0+bVvCCbo4XKoTxpGACa6kuyWdn1GGsoRqWrE5DXXVzZQBqkLT0OVzMHl94qYOzi85wdKwQO
-        8TxgJ8g7Q01c7oPN7+M1yzGphlCFzYnrDnTPPt2r/kSvNbZn8MV9hzCoCWH1S0F0ak4nTFQQSU8X
-        7AFhNSOoq87Pz6uUElsv51R2ylVnDxCRcYra8HSNVU1A/ZITbavwuZGYoCrPBEk6+HSLAM5t3uk6
-        nX17zwu0mR3EWfM2L0flqbTgXc7QhtEmc6HZnMUvaUIOpdYOpnqvGI9pn2RZH1GqWcwQtyiWzd6h
-        ZKRdfOPssQS0964DyShCuIO3JXWEKnQNY0KLTKw7njUtiElXSdG0JFOi0W4MB9HV2eDtWRRNosvx
-        IBqPBg8YUxbJz2OG0QQDhhh2YcYUpUp/wlxNBm/HF4NxNDRDcHT6SMY3XDfgE/cfu91+u7sw1wcw
-        UyptzH5tjMb/e0vijeIMIbmXNy+db7n/DjtmCJGpyGmBSsLdhCi2wbcL3Au1SoIYTRicfNHvrYhG
-        rYrXb/OoLiNg/2WNLo4bJlFTl8C9sZalaSnxpJDikcZaNX0mHjZnRmvkij2xnVFGYGPnOjcvAXdG
-        OZNS+CshjjTfHpO43vEtrSgo95Jq7VgjekzKFRZcmTYOK8BrG/L9Xdbd7ST404+AP4rkh78nu52Y
-        0Nq9gNq90PFgFXpg644tfjP5lD0+/Hu5eZjcbHpov10nOcZCWipxR9e42/o+oXNSZnrqinwjliht
-        e/qCyhzuNrcnZim+u3eON9Fdb4I5At13zIqDRKym6ntJEKX2/bJ1lvvLPoOzTC2z95ek5g1XW7mJ
-        ONUrtMS1d7GadrnmNyt6/g9rgnKJgBQAAA==
+        H4sIAAAAAAAAA6WYXW/bNhSG/8qg2yWh5ThpIiDoCjQoMixtN3hbkRuDlmiLiSSqJGU3FvLf9/JD
+        luQVdmLdBArN8/Dl4SF5DuuAJ0EUTkYX1+HkIjwJCpGwmWkL7j/err9kv2fxp+sN/fbXKi6efnz+
+        +CH8Mr0dfZ7e3gToTHOGnkuu02p+uuAZQ+OiyrKZ/+WRxt8rJjkj/T5iXTAZRHWQiSUvgNh2BMCM
+        fn4Vjq9GfTl/Xv7z7XMWP95P7qd3k/sPN0YCXVFN5aySGSip1qWKCHGNanzmRq0Uk7EoNCv0WSxy
+        UhGHf7+6mQCxlB5ip42GHVjJPccZA6ZIV2+q82xHgBvX9u/2XIgsE2vY7+rdOwTZmhnvWgQvlscg
+        YFYToVMGh2EaL2byXOk3yrEmNVZUaUSKgSgsgWTJ2yR5IwgywfBSE8lKYWnVXMWSl5qL4o3SeqZA
+        CbmkBd/QI1AwVSAYUW8UYU1gylYIuDfaOpualJKvaPxs3CFZzPgK3j2Gt2MMnH4uzZ79G+tvfM01
+        m9EkN5twQTPFXk4CO7ZGJ9twgl31qvje2eIJ2y5iEBU4E0zsyqctde8msy5st84O2nAO+HUPANsJ
+        5pj7E3seQDHWNcFfvwdibEw6F5JqcWh/7xPXw9Sk+68JBs1oPkC0NQcmFWKIB605MFypir0qLvdN
+        2VIUaUK/qPK5O5teE/D7wM4eOqlSfFkwNsBzW0RNmqNzLmkRp0OgDaEm7suuMF0OkGmsAZlnYj6A
+        guuLWERNVErdNaFnw5QZpiH0kJItBso0hC1Sy0FrbCUaxBaIO0pjuQdobAik9p7MaLGs6HIIc4sw
+        Bziu3iXdHMwp9u2TlgGgSZQkn1dDj7GWYlS6Kx37eogrW0iLtFnC/sRj79Q7uYadfJ7zQ3f2Pp4H
+        9IJ8MNTE5S7Y/H84vTgk1RBq0p647kD37OO96k/0RmN3BJ+HDwiDhkDqX0uqU3M6YaCSSna8YA8g
+        9ZwiBTo7O6tTRm1qmzM5aK86e4CojFOkccdrrBsC8pecapswL4zEBAl0JmgywKdbBHBu8Y7X6ey7
+        a14i+xsgzpp3eTkKTaVFMeQMbRldciE0X/D4NfXCvq3Vw9TvFS9idkKRAiNKNY854halmFk7pIxs
+        iG+cPaaAStwVCxlDCA/wtmSOUBNX2yWszMTzwLOmAzHbVTLUF8mMahQi41F4dTp6dxqG0/AiGoXR
+        ZPSAPlWZ/L/P+N00vI7OL6MwNH3KSqW7mPF4Oh5F4TgKL0wXHJ0+kvGFl4GfFebd6sJU+jBTKm3N
+        fmuNop8+aHijOENI7uyb14632r3DDhlCZCpyViKTcI8Wim/wdT7ppQSxqAo4+fwkWFONXBXXb9vU
+        pBGw//qsU1EYJlUzt4GDSMvKVH9oKaV4ZLFW3bb2yOh0XPMn3jM0ic625HN1mxeAx52cSyn8242r
+        EP0Rh3cYX3uKkhVeUKMcj1QZj1mhMN3aFHHQj0sb4v2j0/3d9Jc/fA94o0x++Aetu6kJrP5LUf/l
+        xYMV8cDOY1h8Of2UPT78e7F5mN5uAtTJro6MMJGOSjymtc62nk/YglaZnrkU34ilStviu2Qyh7PN
+        M4eZii/DndtNbDeeNAeg+8aoOEbEeqa+VxQxam+Xppv7xTbBVyaR6f8imbnd+jYF02uUw41vMZdu
+        quaXKnz5D5tXrmInFAAA
     headers:
       access-control-allow-origin: ['*']
       access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
@@ -47,9 +46,9 @@ interactions:
       content-encoding: [gzip]
       content-security-policy: [default-src 'none']
       content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:57 GMT']
-      etag: [W/"3cc92b01e5ab9b3c21ab9210f28a67b9"]
-      last-modified: ['Sat, 21 Jul 2018 01:25:03 GMT']
+      date: ['Fri, 27 Jul 2018 19:36:29 GMT']
+      etag: [W/"8b6bd887b1c1c575ea70f2a5ad265f7b"]
+      last-modified: ['Fri, 27 Jul 2018 19:36:11 GMT']
       referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
       server: [GitHub.com]
       status: [200 OK]
@@ -58,18 +57,17 @@ interactions:
       x-content-type-options: [nosniff]
       x-frame-options: [deny]
       x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8A38:1CB9BE8:5B528BA4']
+      x-github-request-id: ['EBEC:5CB5:57C20FD:B85D760:5B5B743D']
       x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4976']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.068907']
+      x-ratelimit-remaining: ['4939']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.077430']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
 - request:
-    body: !!python/unicode '{"has_wiki": false, "description": "Configure your GitHub
-      repository from a file, without having to click around in the UI.", "allow_squash_merge":
-      false, "private": false, "has_issues": true, "allow_rebase_merge": true, "name":
-      "github-file", "allow_merge_commit": false, "has_projects": false, "homepage":
+    body: !!python/unicode '{"has_wiki": true, "description": "", "allow_squash_merge":
+      true, "private": false, "has_issues": true, "allow_rebase_merge": true, "name":
+      "github-file", "allow_merge_commit": true, "has_projects": true, "homepage":
       ""}'
     headers:
       Accept: [application/vnd.github.v3.full+json]
@@ -77,7 +75,7 @@ interactions:
       Accept-Encoding: ['gzip, deflate']
       Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
       Connection: [keep-alive]
-      Content-Length: ['311']
+      Content-Length: ['220']
       Content-Type: [application/json]
       User-Agent: [github3.py/1.1.0]
     method: PATCH
@@ -85,30 +83,29 @@ interactions:
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAA6WYb2/iOBDGv0rE26OEULrtIlV7q9uq19O1u3di71Z9g0xiiNskztoOLET97vf4
-        DySwJ2jxGwTB8/Pj8Ywz47rDks4oGvYv3kfDi6jbKXhCJ/pZ5/7TzfJz9kcW375fk29/L+Li+cfD
-        p4/R5/FN/2F8c93BYJJTjJwzlVbTsxnLKB7OqiybuH+eSPy9ooLRcHcMXxZUdEZ1J+NzVgCxHQiA
-        nv38Khpc9Xfl/PXun28PWfx0P7wf3w3vP15rCWRBFBGTSmSgpEqVchSG9qEc9OyslaQi5oWiherF
-        PA+r0OI/LK6HQMyFg5hl48EerGSOY40Bk2Fbb6rybE+AndeMb4+c8SzjS9jv6z04Rbg10941CFbM
-        T0HArA65SikchmW86MUzqd4ox5jU2FGpECkaIrEFgiZvk+SMIEgHw0sdClpyQ6umMhasVIwXb5S2
-        YwoUF3NSsDU5AQVTCYIW9UYRxgSmdIGAe6OttanDUrAFiVfaHYLGlC3g3VN4e8bAqVWpc/Yr9l/7
-        mik6IUmuk3BGMklfuh0zt8Ig86CLrHpVfO+leEK3m4jpfuPFjM0rQYMVr0Rwy9Tv1TQwnmKKi1Uw
-        EzwPSKDPkG6wxIHCKxWkZIGQDRQP4ozFzwERvCqSgBUBYjj4etfDCmZcPG+lHsxcM1uTj3t6NefI
-        Zh0AIEdhDjnPdOVB0dZ1iE+XWDGynUy5IPCRB3YHU4ftnzrCFCW5B92YA5Ny7uNBYw4Mk7Kirwr2
-        Q/thKDLc5FNR5VN74L0miw6BrT10EinZvKDUw3NbRB1uzuOpIEWc+kA3hDq038wOk7mHTG0NyDTj
-        Uw8K3omhQdShTIl996iJnzLN1IQdpKAzT5masEUq4bXHRqJGbIF48Slst4fGDSGsnSczUswrMvdh
-        bhHYaf1qnpP10ULlUJ40DAB19SXYtPI9xhqKVmnrBOS1jysbSIM0pcfhaubg0lsFjFl8nrNjhcAh
-        ngPsBLk3VMflPlj/Pl6zHJOqCXXYnLj2QHfs073qTvSNxvYMrrj3CIMNIax/KYlK9emEiUoi6OmC
-        HSCspwR1Va/Xq1NKTL2cU+GVq9YeICLiFLXh6RrrDQH1S06UqcJnWmKCqjzjJPHw6RYBnN2803Va
-        +/ael2gzPcQZ8zYvR+UpFS98ztCG0SYXXLEZi1/ThBxKrR1M/UGyIqZdkmVdRKliMUPcoljWe4eS
-        kfr4xtpjCWjvbQeSUYSwh7cFtYQ6tA1jQsuMrzzPmhZEp6ugaFqSCVFoNwb96Oqsf3kWRePoYtSP
-        RsP+I8ZUZfLzmEE0xoDBxejiUo8pK5n+hLka9y9H5/1RNNBDcHS6SMY3XDfgE/cfu91+u7vQ1wcw
-        kzJtzH5tjEb/e0vijOIMIbmXN6+db7H/DjtmCJEpz2mJSsLehEi2xrdz3Au1SoIYTRicfN7tLIlC
-        rYrXb/NoU0bA/ssKXVyhmURObAJ3RkpUuqXEk1LwJxor2fSZeNicGa2RS/bMdkZpgY2d7dycBNwZ
-        5UwI7q6ECqT59pjE9Y5raXlJCydpox1rRI9JC4kF17qNwwrw2oZ8d5d1fzcO/nQj4I8y+eHuye7G
-        OrR2L6B2L3QcWIYO2Lpji9+Nb7Onx38v1o/jm3UH7bftJEdYSEsl7ugadxvfJ3RGqkxNbJGvxRKp
-        TE9fUpHD3fr2RC/FdffW8Tq6N5ugj0D7HbPiIOHLifxeEUSpeb9snWX/Ms/gLF3L7P0lqH7Dbazs
-        RAVVS7TEG+9iNe1yzW1W9PIf4wrn54AUAAA=
+        H4sIAAAAAAAAA6WYXW/bNhSG/8qg2yWR5ThpIiDoCjQoMixtN3hbkRuDlmiLiSSqJGU3FvLf9/JD
+        luQVdmLeBArN8/Dl4SF5DpuApUEcTUYX19HkIjoJSp7SmW4L7j/err/kv+fJp+sN+fbXKimffnz+
+        +CH6Mr0dfZ7e3gToTAqKnkumsnp+umA5ReOizvOZ++WRJN9rKhgNh334uqQiiJsg50tWArHtCIAe
+        /fwqGl+NhnL+vPzn2+c8ebyf3E/vJvcfbrQEsiKKiFktclAypSoZh6FtlOMzO2otqUh4qWipzhJe
+        hHVo8e9XNxMglsJBzLTRsAOrmONYY8Bk2NebqSLfEWDHNf37PRc8z/ka9rt69w4Rbs20dw2Clctj
+        EDBrQq4yCodhGi968kyqN8oxJg1WVCpEioZILIGg6dskOSMI0sHw0oSCVtzQ6rlMBKsU4+UbpQ1M
+        geJiSUq2IUegYCpB0KLeKMKYwJSuEHBvtLU2TVgJtiLJs3aHoAllK3j3GN6OMXDqudJ79m+sv/Y1
+        U3RG0kJvwgXJJX05CczYCp1Mwwl21avie2eLp3S7iEFc4kzQsSuettS9m8y4sNs6O2jNOeDXPQBs
+        J5hj7k/02YOirZsQf90eSLAxyZwLovih/b1P3ADThP1/dTAoSgoP0cYcmIxzHw8ac2CYlDV9VVzu
+        m7KhyLAN/bIu5vZsek3A7wNbe+gkUrJlSamH57aIJmyPzrkgZZL5QFtCE9ovs8Jk6SFTWwMyz/nc
+        g4LrKzSIJpQZsdeEmvkp00xNGCAFXXjK1IQtUgmvNTYSNWILxB2lsNweGltC2DhP5qRc1mTpw9wi
+        9AGOq3dJNgdzin37pGMAqBMlwea17zHWUbRKe6VjX/u4soN0SJMl7E889k69l2uYyRcFO3Rn7+M5
+        wCDIvaE6LnfB+v/D6cUhqZrQhN2Jaw90xz7eq+5EbzX2R3B5uEcYtISw+bUiKtOnEwaqiKDHC3aA
+        sJkTpEBnZ2dNRolJbQsqvPaqtQeIiCRDGne8xqYlIH8piDIJ80JLTJFA55ykHj7dIoCzi3e8Tmvf
+        X/MK2Z+HOGPe5xUoNKXipc8Z2jH65JIrtmDJa+qFfVtrgGneS1Ym9IQgBUaUKpYwxC1KMb12SBmp
+        j2+sPaaAStwWCzlFCHt4W1BLaEJb26W0yvmz51nTg+jtKijqi3RGFAqR8Si6Oh29O42iaXQRj6J4
+        MnpAn7pK/99n/G4aXcfnl/G56VPVMtvFjMfT8SiOxnF0obvg6HSRjC+8DPysMO9XF7rSh5mUWWf2
+        W2cU//RBwxklOUJyZ9+8drzV7h12yBAiM17QCpmEfbSQbIOv88kgJUh4XcLJ5yfBmijkqrh+u6Y2
+        jYD912eV8VIziZzZDRzEStS6+kNLJfgjTZTst3VHRq/jmj2xgaFOdLYln63bnAA87hRMCO7ebmyF
+        6I44vMO42pNXtHSCWuV4pMpZQkuJ6Ta6iIN+XNoQ7x6d7u+mv/zhesAbVfrDPWjdTXVgDV+Khi8v
+        DixDB+w9hiWX00/548O/F5uH6e0mQJ1s68gYE+mpxGNa52zj+ZQuSJ2rmU3xtVgilSm+KyoKOFs/
+        c+ipuDLcul3HdutJfQDab4yKY4SvZ/J7TRCj5nZpu9lfTBN8pROZ4S+C6tttaFNStUY53PoWc+mn
+        am6popf/AN6BRwgnFAAA
     headers:
       access-control-allow-origin: ['*']
       access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
@@ -118,8 +115,8 @@ interactions:
       content-encoding: [gzip]
       content-security-policy: [default-src 'none']
       content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:57 GMT']
-      etag: [W/"e0947b2fdc6c88541c0beaa32a7f9bbb"]
+      date: ['Fri, 27 Jul 2018 19:36:30 GMT']
+      etag: [W/"9ac32567d480a8f83a4e80ac7a6d451f"]
       referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
       server: [GitHub.com]
       status: [200 OK]
@@ -128,713 +125,13 @@ interactions:
       x-content-type-options: [nosniff]
       x-frame-options: [deny]
       x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8A54:1CB9C0F:5B528BA5']
+      x-github-request-id: ['EBEC:5CB5:57C2157:B85D819:5B5B743D']
       x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4975']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.084991']
+      x-ratelimit-remaining: ['4938']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.104672']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
-- request:
-    body: null
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: GET
-    uri: https://api.github.com/repos/jacquerie/github-file/labels?per_page=100
-  response:
-    body:
-      string: !!binary |
-        H4sIAAAAAAAAA62VTW+bQBCG/8oKqcrFDdjYYPtmKR8n99JUlRpV1ZodYJ1ll+5HcV3lv3fAwaR2
-        FSwFLmjeWQ165t0ZHv94nHnLcRAEk/l8spiNPKkY/KhFb33zJXq4v+Pfvla79c2qWm+z6Xr7NPZG
-        ntMCD+TWlmbp+7Tk1xm3udtcJ6rwNZTK+Fua/HSgOfiH1MeUC/AF3YAw/sZlWEXSArDMIUiUUBoj
-        Fod0SjHLIKVOWG9ptYM6NInmpeVK4qnPqgCbc5kRbuSVJZXSTxh5z6MTougCoskARMyVgifUQsf1
-        WmrpkpSFLO6je8i5QTDjgChNSicE0YDdNJZQoYGy3wR23FhzzhtfwBsOwAsypzKBAqTtiP8VW2Y6
-        AYC0j/kTVCQFap1uoF94TwHDoN/Q/WoIQzOl2IdJkHJtLL4bNzrSOkua3MEnzLS4cTCL017c+6YA
-        gkqocGhAn3kZBv1e7ldDeJmDKBGxotIC6xhrmRzFFi8I5lFcN/jN+bzdWU0JtRbvB04sNglBgWH5
-        kwkNg3nvjd2vpvi99+4cLn9RgYvtuHc6oWWDKUTRoo+tmU6moFk8BqAgmme5PSdbXEA2G4Cs2Qz1
-        XjyivVKOe3UeR1Dfljd9u3Pa5qAJl3g3C9p69zKN/7FvHPRD3lYDQFZK2pTvOsZOaBHT5ulDbOyr
-        OO5UqSzZQPPvAEawf8/f/wK1Q1+LEQcAAA==
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-encoding: [gzip]
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:57 GMT']
-      etag: [W/"eb828e900827a42324c0fe01d1659f92"]
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [200 OK]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8A6C:1CB9C59:5B528BA5']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4974']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.051719']
-      x-xss-protection: [1; mode=block]
-    status: {code: 200, message: OK}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/bug
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:57 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8A79:1CB9C7B:5B528BA5']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4973']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.056936']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/duplicate
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:57 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8A85:1CB9C9A:5B528BA5']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4972']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.074165']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/enhancement
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:58 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8AA7:1CB9CC4:5B528BA5']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4971']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.074014']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/good%20first%20issue
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:58 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8ABB:1CB9D0D:5B528BA6']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4970']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.059438']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/help%20wanted
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:58 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8ACC:1CB9D2B:5B528BA6']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4969']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.063209']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/invalid
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:58 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8AE3:1CB9D55:5B528BA6']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4968']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.057132']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/question
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:59 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8AF9:1CB9D88:5B528BA6']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4967']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.083807']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: null
-    headers:
-      Accept: [application/vnd.github.v3.full+json]
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['0']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: DELETE
-    uri: https://api.github.com/repos/jacquerie/github-file/labels/wontfix
-  response:
-    body: {string: !!python/unicode ''}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      content-security-policy: [default-src 'none']
-      content-type: [application/octet-stream]
-      date: ['Sat, 21 Jul 2018 01:25:59 GMT']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [204 No Content]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.v3; param=full; format=json]
-      x-github-request-id: ['9BD0:413C:FA8B0D:1CB9DB2:5B528BA7']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4966']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.068660']
-      x-xss-protection: [1; mode=block]
-    status: {code: 204, message: No Content}
-- request:
-    body: !!python/unicode '{"color": "d73a4a", "name": "bug", "description": "Something
-      isn''t working"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['76']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288726,"node_id":"MDU6TGFiZWwxMDAwMjg4NzI2","url":"https://api.github.com/repos/jacquerie/github-file/labels/bug","name":"bug","color":"d73a4a","default":true,"description":"Something
-        isn''t working"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['209']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:59 GMT']
-      etag: ['"70c69d3c2e74371cdb1556aa91a1ae3b"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/bug']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8B23:1CB9DD4:5B528BA7']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4965']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.059677']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "cfd3d7", "name": "duplicate", "description":
-      "This issue or pull request already exists"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['100']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288737,"node_id":"MDU6TGFiZWwxMDAwMjg4NzM3","url":"https://api.github.com/repos/jacquerie/github-file/labels/duplicate","name":"duplicate","color":"cfd3d7","default":true,"description":"This
-        issue or pull request already exists"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['239']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:59 GMT']
-      etag: ['"a7e75964d64e4f3dead233738f0127e1"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/duplicate']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8B3A:1CB9E06:5B528BA7']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4964']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.055315']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "a2eeef", "name": "enhancement", "description":
-      "New feature or request"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['83']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288738,"node_id":"MDU6TGFiZWwxMDAwMjg4NzM4","url":"https://api.github.com/repos/jacquerie/github-file/labels/enhancement","name":"enhancement","color":"a2eeef","default":true,"description":"New
-        feature or request"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['224']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:59 GMT']
-      etag: ['"42e63ee987ce88605b9df8d14f497624"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/enhancement']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8B53:1CB9E2B:5B528BA7']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4963']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.052768']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "7057ff", "name": "good first issue", "description":
-      "Good for newcomers"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['84']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288739,"node_id":"MDU6TGFiZWwxMDAwMjg4NzM5","url":"https://api.github.com/repos/jacquerie/github-file/labels/good%20first%20issue","name":"good
-        first issue","color":"7057ff","default":true,"description":"Good for newcomers"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['234']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:25:59 GMT']
-      etag: ['"b3461ff5f59a8105635b1261587a5642"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/good%20first%20issue']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8B66:1CB9E52:5B528BA7']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4962']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.057105']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "008672", "name": "help wanted", "description":
-      "Extra attention is needed"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['86']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288740,"node_id":"MDU6TGFiZWwxMDAwMjg4NzQw","url":"https://api.github.com/repos/jacquerie/github-file/labels/help%20wanted","name":"help
-        wanted","color":"008672","default":true,"description":"Extra attention is
-        needed"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['229']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:26:00 GMT']
-      etag: ['"69e2e9a9134e3fd94d29b23709b5fa1d"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/help%20wanted']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8B80:1CB9E83:5B528BA7']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4961']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.058553']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "e4e669", "name": "invalid", "description":
-      "This doesn''t seem right"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['80']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288741,"node_id":"MDU6TGFiZWwxMDAwMjg4NzQx","url":"https://api.github.com/repos/jacquerie/github-file/labels/invalid","name":"invalid","color":"e4e669","default":true,"description":"This
-        doesn''t seem right"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['217']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:26:00 GMT']
-      etag: ['"37eb7d37fa59b47711f74653ad82301b"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/invalid']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8BA2:1CB9EBB:5B528BA8']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4960']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.063497']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "d876e3", "name": "question", "description":
-      "Further information is requested"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['90']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288742,"node_id":"MDU6TGFiZWwxMDAwMjg4NzQy","url":"https://api.github.com/repos/jacquerie/github-file/labels/question","name":"question","color":"d876e3","default":true,"description":"Further
-        information is requested"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['228']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:26:00 GMT']
-      etag: ['"b411c7446fab5e80a2b026ebfb444f59"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/question']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8BD0:1CB9F04:5B528BA8']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4959']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.064102']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
-- request:
-    body: !!python/unicode '{"color": "ffffff", "name": "wontfix", "description":
-      "This will not be worked on"}'
-    headers:
-      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
-      Accept-Charset: [utf-8]
-      Accept-Encoding: ['gzip, deflate']
-      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
-      Connection: [keep-alive]
-      Content-Length: ['83']
-      Content-Type: [application/json]
-      User-Agent: [github3.py/1.1.0]
-    method: POST
-    uri: https://api.github.com/repos/jacquerie/github-file/labels
-  response:
-    body: {string: !!python/unicode '{"id":1000288743,"node_id":"MDU6TGFiZWwxMDAwMjg4NzQz","url":"https://api.github.com/repos/jacquerie/github-file/labels/wontfix","name":"wontfix","color":"ffffff","default":true,"description":"This
-        will not be worked on"}'}
-    headers:
-      access-control-allow-origin: ['*']
-      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
-          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
-          X-Poll-Interval']
-      cache-control: ['private, max-age=60, s-maxage=60']
-      content-length: ['220']
-      content-security-policy: [default-src 'none']
-      content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:26:00 GMT']
-      etag: ['"a11d56874c16d6cebf1029e74a2200e1"']
-      location: ['https://api.github.com/repos/jacquerie/github-file/labels/wontfix']
-      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
-      server: [GitHub.com]
-      status: [201 Created]
-      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
-      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
-      x-content-type-options: [nosniff]
-      x-frame-options: [deny]
-      x-github-media-type: [github.symmetra-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8BEE:1CB9F48:5B528BA8']
-      x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4958']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.067310']
-      x-xss-protection: [1; mode=block]
-    status: {code: 201, message: Created}
 - request:
     body: !!python/unicode '{"names": ["github", "configuration", "file"]}'
     headers:
@@ -862,7 +159,7 @@ interactions:
       content-encoding: [gzip]
       content-security-policy: [default-src 'none']
       content-type: [application/json; charset=utf-8]
-      date: ['Sat, 21 Jul 2018 01:26:00 GMT']
+      date: ['Fri, 27 Jul 2018 19:36:30 GMT']
       etag: [W/"a3d0f31fe3b28b17d94593008a4c5352"]
       referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
       server: [GitHub.com]
@@ -872,11 +169,711 @@ interactions:
       x-content-type-options: [nosniff]
       x-frame-options: [deny]
       x-github-media-type: [github.mercy-preview; format=json]
-      x-github-request-id: ['9BD0:413C:FA8C1F:1CB9F99:5B528BA8']
+      x-github-request-id: ['EBEC:5CB5:57C21AE:B85D8FE:5B5B743E']
       x-ratelimit-limit: ['5000']
-      x-ratelimit-remaining: ['4957']
-      x-ratelimit-reset: ['1532139803']
-      x-runtime-rack: ['0.124670']
+      x-ratelimit-remaining: ['4937']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.237979']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
+- request:
+    body: null
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: GET
+    uri: https://api.github.com/repos/jacquerie/github-file/labels?per_page=100
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA63VUW/aMBAH8K9iRZr2wpoEaEJ5qwTtE9vDOk3aNE0mvhCvjp3Z54Vt6nfvJTSk
+        G1XJQ3hBPkdGP/9zx9e/gRTBMo6iNLqKF9FsEmgj4HtTDDarT8nd7Y388rneb1bXs83qfv9hdf0n
+        mATeKnqgQKzcMgx5JS92Egu/vchMGVqojAt/8OynByshPGy9y6WCUPEtKBdu/Y5O0bwEOuawyIwy
+        llYinfE5p10BOfcKgyVaD83SZVZWKI2mpz6aErCQesek02+R1cbe0yp4mPwnmg8QRSOIhK+UzDhC
+        73pe6nRZLmYiPae7K6QjmPPAjGWVV4pZoNt0yLiywMVvBnvp0J16Lwd44xG8oAuuMyhBYy/+t9iZ
+        +RQA8nPm91CzHDh626KfvKfAZABwOgJwZ4x4M41yaR3Sd5tGL212Wbt3yIl2Om4aXab5We5tewBB
+        NdTUNGBfyDIdQJ2NQC1AVUSsuUYQvbEps2Ox40XRIkmbC361P9d7tJxxRHo/qGPpkggKgo4/6dDF
+        AOV8BKXUv7iiwXacO32hs8EckuTqnK3tTmGgHTwOoGRW7go8kcUD8luPkV87GZq5eKQ9qxzn6iJN
+        oPm1V3O78RYLsExqejdL3mX31I0vxBcPiG89Rny10ZjLfW/sCx0xbz/niG18taSZqg2yLbT/HSAY
+        3d/Dt0cN1OkZEQcAAA==
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-encoding: [gzip]
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:31 GMT']
+      etag: [W/"62be449025c3ab4090b90dc237ff0d9a"]
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [200 OK]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2221:B85D9FC:5B5B743E']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4936']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.052571']
+      x-xss-protection: [1; mode=block]
+    status: {code: 200, message: OK}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/bug
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:31 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2263:B85DA9B:5B5B743F']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4935']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.081178']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/duplicate
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:31 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2294:B85DB1A:5B5B743F']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4934']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.079770']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/enhancement
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:31 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C22CD:B85DB83:5B5B743F']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4933']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.080225']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/good%20first%20issue
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:32 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C230C:B85DBFA:5B5B743F']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4932']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.066161']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/help%20wanted
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:32 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2343:B85DC68:5B5B7440']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4931']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.082709']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/invalid
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:32 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2381:B85DCD6:5B5B7440']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4930']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.083456']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/question
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:32 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C23B7:B85DD4C:5B5B7440']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4929']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.077826']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: null
+    headers:
+      Accept: [application/vnd.github.v3.full+json]
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['0']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: DELETE
+    uri: https://api.github.com/repos/jacquerie/github-file/labels/wontfix
+  response:
+    body: {string: !!python/unicode ''}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      content-security-policy: [default-src 'none']
+      content-type: [application/octet-stream]
+      date: ['Fri, 27 Jul 2018 19:36:33 GMT']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [204 No Content]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.v3; param=full; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C23F3:B85DDB8:5B5B7440']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4928']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.059686']
+      x-xss-protection: [1; mode=block]
+    status: {code: 204, message: No Content}
+- request:
+    body: !!python/unicode '{"color": "d73a4a", "name": "bug", "description": "Something
+      isn''t working"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['76']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007091996,"node_id":"MDU6TGFiZWwxMDA3MDkxOTk2","url":"https://api.github.com/repos/jacquerie/github-file/labels/bug","name":"bug","color":"d73a4a","default":true,"description":"Something
+        isn''t working"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['209']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:33 GMT']
+      etag: ['"548a0a71a07dc297d589eb816b90d1ef"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/bug']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2440:B85DE31:5B5B7441']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4927']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.070178']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "cfd3d7", "name": "duplicate", "description":
+      "This issue or pull request already exists"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['100']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092004,"node_id":"MDU6TGFiZWwxMDA3MDkyMDA0","url":"https://api.github.com/repos/jacquerie/github-file/labels/duplicate","name":"duplicate","color":"cfd3d7","default":true,"description":"This
+        issue or pull request already exists"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['239']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:33 GMT']
+      etag: ['"50cb8fe904d1fd267cbbd7e4e725f4e1"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/duplicate']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2485:B85DED2:5B5B7441']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4926']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.077209']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "a2eeef", "name": "enhancement", "description":
+      "New feature or request"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['83']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092005,"node_id":"MDU6TGFiZWwxMDA3MDkyMDA1","url":"https://api.github.com/repos/jacquerie/github-file/labels/enhancement","name":"enhancement","color":"a2eeef","default":true,"description":"New
+        feature or request"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['224']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:33 GMT']
+      etag: ['"5492b0012865548502ea2e4db7714020"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/enhancement']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C24CC:B85DF7F:5B5B7441']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4925']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.067916']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "7057ff", "name": "good first issue", "description":
+      "Good for newcomers"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['84']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092006,"node_id":"MDU6TGFiZWwxMDA3MDkyMDA2","url":"https://api.github.com/repos/jacquerie/github-file/labels/good%20first%20issue","name":"good
+        first issue","color":"7057ff","default":true,"description":"Good for newcomers"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['234']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:34 GMT']
+      etag: ['"aa40129db12a8c2bd873ccf29e761be4"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/good%20first%20issue']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2502:B85DFF7:5B5B7441']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4924']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.062944']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "008672", "name": "help wanted", "description":
+      "Extra attention is needed"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['86']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092009,"node_id":"MDU6TGFiZWwxMDA3MDkyMDA5","url":"https://api.github.com/repos/jacquerie/github-file/labels/help%20wanted","name":"help
+        wanted","color":"008672","default":true,"description":"Extra attention is
+        needed"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['229']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:34 GMT']
+      etag: ['"695be887951143e3d62ea27c57780515"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/help%20wanted']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2539:B85E057:5B5B7442']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4923']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.070108']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "e4e669", "name": "invalid", "description":
+      "This doesn''t seem right"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['80']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092016,"node_id":"MDU6TGFiZWwxMDA3MDkyMDE2","url":"https://api.github.com/repos/jacquerie/github-file/labels/invalid","name":"invalid","color":"e4e669","default":true,"description":"This
+        doesn''t seem right"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['217']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:34 GMT']
+      etag: ['"0a34aa7af688025afb5d1732a650872d"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/invalid']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C2571:B85E0E2:5B5B7442']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4922']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.232550']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "d876e3", "name": "question", "description":
+      "Further information is requested"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['90']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092025,"node_id":"MDU6TGFiZWwxMDA3MDkyMDI1","url":"https://api.github.com/repos/jacquerie/github-file/labels/question","name":"question","color":"d876e3","default":true,"description":"Further
+        information is requested"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['228']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:35 GMT']
+      etag: ['"c0ed259b9c11579b278c56633aa6a699"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/question']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C25C5:B85E182:5B5B7442']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4921']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.062509']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
+- request:
+    body: !!python/unicode '{"color": "ffffff", "name": "wontfix", "description":
+      "This will not be worked on"}'
+    headers:
+      Accept: [!!python/unicode 'application/vnd.github.symmetra-preview+json']
+      Accept-Charset: [utf-8]
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Basic dXNlcm5hbWU6cGFzc3dvcmQ=]
+      Connection: [keep-alive]
+      Content-Length: ['83']
+      Content-Type: [application/json]
+      User-Agent: [github3.py/1.1.0]
+    method: POST
+    uri: https://api.github.com/repos/jacquerie/github-file/labels
+  response:
+    body: {string: !!python/unicode '{"id":1007092026,"node_id":"MDU6TGFiZWwxMDA3MDkyMDI2","url":"https://api.github.com/repos/jacquerie/github-file/labels/wontfix","name":"wontfix","color":"ffffff","default":true,"description":"This
+        will not be worked on"}'}
+    headers:
+      access-control-allow-origin: ['*']
+      access-control-expose-headers: ['ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit,
+          X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes,
+          X-Poll-Interval']
+      cache-control: ['private, max-age=60, s-maxage=60']
+      content-length: ['220']
+      content-security-policy: [default-src 'none']
+      content-type: [application/json; charset=utf-8]
+      date: ['Fri, 27 Jul 2018 19:36:35 GMT']
+      etag: ['"68d0c6c4a59042a6c385911cb3335036"']
+      location: ['https://api.github.com/repos/jacquerie/github-file/labels/wontfix']
+      referrer-policy: ['origin-when-cross-origin, strict-origin-when-cross-origin']
+      server: [GitHub.com]
+      status: [201 Created]
+      strict-transport-security: [max-age=31536000; includeSubdomains; preload]
+      vary: ['Accept, Authorization, Cookie, X-GitHub-OTP']
+      x-content-type-options: [nosniff]
+      x-frame-options: [deny]
+      x-github-media-type: [github.symmetra-preview; format=json]
+      x-github-request-id: ['EBEC:5CB5:57C25F1:B85E1E9:5B5B7443']
+      x-ratelimit-limit: ['5000']
+      x-ratelimit-remaining: ['4920']
+      x-ratelimit-reset: ['1532723712']
+      x-runtime-rack: ['0.065892']
+      x-xss-protection: [1; mode=block]
+    status: {code: 201, message: Created}
 version: 1
