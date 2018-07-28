@@ -15,7 +15,13 @@ description = Configure your GitHub repository from a file,
 
 [features]
 has_issues = true
+has_projects = false
 has_wiki = false
+
+[merges]
+allow_squash_merge = false
+allow_merge_commit = false
+allow_rebase_merge = true
 '''
 
 
