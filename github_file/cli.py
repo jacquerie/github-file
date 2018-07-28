@@ -41,16 +41,33 @@ def update(filename):
     has_issues = True
     if parser.has_option('features', 'has_issues'):
         has_issues = parser.getboolean('features', 'has_issues')
+    has_projects = True
+    if parser.has_option('features', 'has_projects'):
+        has_projects = parser.getboolean('features', 'has_projects')
     has_wiki = True
     if parser.has_option('features', 'has_wiki'):
         has_wiki = parser.getboolean('features', 'has_wiki')
+
+    allow_squash_merge = True
+    if parser.has_option('merges', 'allow_squash_merge'):
+        allow_squash_merge = parser.getboolean('merges', 'allow_squash_merge')
+    allow_merge_commit = True
+    if parser.has_option('merges', 'allow_merge_commit'):
+        allow_merge_commit = parser.getboolean('merges', 'allow_merge_commit')
+    allow_rebase_merge = True
+    if parser.has_option('merges', 'allow_rebase_merge'):
+        allow_rebase_merge = parser.getboolean('merges', 'allow_rebase_merge')
 
     config = {
         'description': description,
         'homepage': homepage,
         'private': private,
         'has_issues': has_issues,
+        'has_projects': has_projects,
         'has_wiki': has_wiki,
+        'allow_squash_merge': allow_squash_merge,
+        'allow_merge_commit': allow_merge_commit,
+        'allow_rebase_merge': allow_rebase_merge,
     }
 
     github_user = os.getenv('GITHUB_USER')

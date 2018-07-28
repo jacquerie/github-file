@@ -49,17 +49,21 @@ matches what is described in a file called (by default) ``Githubfile`` in the
 
     [features]
     has_issues = true
+    has_projects = false
     has_wiki = false
+
+    [merges]
+    allow_squash_merge = false
+    allow_merge_commit = false
+    allow_rebase_merge = true
 
 The meaning of these options is explained in GitHub's API documentation at
 https://developer.github.com/v3/repos/#edit, although not all options are
-currently available. Here's what's currently configurable:
+currently available. Here's what's currently not configurable:
 
-- ``description``
-- ``homepage``
-- ``private``
-- ``has_issues``
-- ``has_wiki``
+- Whether the repository is archived.
+- The configuration of the branches.
+- The topics of the repository.
 
 
 Author
