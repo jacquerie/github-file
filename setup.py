@@ -18,7 +18,7 @@ setup_requires = [
 install_requires = [
     'click~=6.0,>=6.7',
     'github3.py~=1.0,>=1.1.0',
-    'python-dotenv~=0.0,>=0.8.2',
+    'python-dotenv~=0.0,>=0.8.2,<0.9.0',
     'six~=1.0,>=1.11.0',
 ]
 
