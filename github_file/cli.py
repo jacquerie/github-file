@@ -58,7 +58,7 @@ DEFAULT_LABELS = [
 @click.group()
 @click.version_option()
 def cli():
-    load_dotenv(find_dotenv())
+    load_dotenv(find_dotenv(usecwd=True))
 
 
 @cli.command()
